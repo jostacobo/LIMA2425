@@ -1,3 +1,9 @@
+body{background-image: url("/img/cover.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: white;}
+
 nav ul {
     list-style-type: none;
     overflow: hidden;
@@ -26,12 +32,6 @@ nav ul li a:hover {
     text-decoration: none;
 }
 
-
-body{background-image: url("https://wallpapers.com/images/featured/firewatch-14llvf3gxr9b8ea4.jpg");
-background-size: cover;
-background-repeat: no-repeat;
-background-attachment: fixed;
-color: white;}
 
 h1{text-align: center;
 color: white;

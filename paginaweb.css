@@ -1,0 +1,85 @@
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+nav ul li {
+    float: right;
+}
+  
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border-left: solid white 1px;
+}
+nav ul li a:hover {
+    background-color: #111;
+}
+
+#inicio{color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+body{background-image: url("/img/cover.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: white;}
+
+h1{text-align: center;
+color: white;
+border: 5px solid ;
+background-color:rgb(0, 0, 0, 75%);
+padding: 10px ;}
+
+#resumen{text-align: center;}
+
+#indice{text-align: center;
+color: white;
+border-bottom: 2px double;
+background-color: rgb(0, 0, 0, 50%);}
+
+#ol1{text-align: center;}
+
+#ol1 li{border-bottom: dotted 2px;
+background-color: rgb(128, 128, 128,50%);}
+
+p{text-align: center;}
+
+table{background-color:azure;margin: 0 auto;}
+
+#ol2{text-align: center;}
+
+#ol2 li{border-bottom: 2px double;}
+
+#ul1{text-align:center;
+background-color:rgb(128, 128, 128, 50%);
+color: white;
+font-weight: bolder;margin-left: 100px;margin-right: 100px;}
+
+table{color: white; font-style: italic;
+background-color: rgb(128, 128, 128, 50%);}
+
+form{text-align: center;}
+
+#olquiz{background-color: rgb(128, 128, 128,50%); padding-top: 50px; padding-bottom: 50px; margin-left: 50px;margin-right: 50px;}
+
+#ol_trailers li{border-bottom: solid 2px; margin-bottom: 20px;}
+
+footer{background-color: black;
+}
+
+#ol1{  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;}
+    
+    
+

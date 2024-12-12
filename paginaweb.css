@@ -57,6 +57,10 @@ p{text-align: center;}
 
 table{background-color:azure;margin: 0 auto;}
 
+table td{padding: 20px;}
+
+table th{padding: 20px;}
+
 #ol2{text-align: center;}
 
 #ol2 li{border-bottom: 2px double;}
